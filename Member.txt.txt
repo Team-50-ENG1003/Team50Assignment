@@ -2,6 +2,12 @@ LIST OF MEMBERS FOR TEAM 50
 
 MEMBER 1 CHRISTOPHER LIONG
 
+I am born in 1996 and live in Australia.
+
+Role in project: team leader
+
+Preferred branch of engineering: mechanical
+
 MEMBER 2 HENRY NGUYEN
 
 MEMBER 3 DAVID DINH

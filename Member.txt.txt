@@ -9,7 +9,12 @@ Role in project: team leader
 Preferred branch of engineering: mechanical
 
 MEMBER 2 HENRY NGUYEN
-
+  
+Brief introduction: i am 17 years old, and i m in Monash
+ 
+Role in project:  programmer
+ 
+Preferred branch of engineering: mechanical
 MEMBER 3 DAVID DINH
 
 MEMBER 4 CHHAY SAT

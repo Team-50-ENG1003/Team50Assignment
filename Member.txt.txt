@@ -2,6 +2,12 @@ LIST OF MEMBERS FOR TEAM 50
 
 MEMBER 1 CHRISTOPHER LIONG
 
+I am born in 1996 and live in Australia.
+
+Role in project: team leader
+
+Preferred branch of engineering: mechanical
+
 MEMBER 2 HENRY NGUYEN
   
 Brief introduction: i am 17 years old, and i m in Monash
@@ -12,3 +18,10 @@ Preferred branch of engineering: mechanical
 MEMBER 3 DAVID DINH
 
 MEMBER 4 CHHAY SAT
+ My name is Hout Chhay Sat and i was born in Cambodia.
+ 
+ I look forward to doing assignment 2.
+
+ Role in project: programmer
+
+ Preferred branch of engineering: civil/mechatronics

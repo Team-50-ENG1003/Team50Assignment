@@ -7,3 +7,10 @@ MEMBER 2 HENRY NGUYEN
 MEMBER 3 DAVID DINH
 
 MEMBER 4 CHHAY SAT
+ My name is Hout Chhay Sat and i was born in Cambodia.
+ 
+ I look forward to doing assignment 2.
+
+ Role in project: programmer
+
+ Preferred branch of engineering: civil/mechatronics

@@ -5,5 +5,8 @@ MEMBER 1 CHRISTOPHER LIONG
 MEMBER 2 HENRY NGUYEN
 
 MEMBER 3 DAVID DINH
+im from australia
+im the team programmer
+hoping to go into civil engineering
 
 MEMBER 4 CHHAY SAT
